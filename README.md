@@ -1,4 +1,4 @@
-# model-selection-over-posets
+# Model Selection over Partially Ordered Sets
 
 This repository contains the code for the paper "Model selection over partially ordered sets" by Armeen Taeb, Peter Bühlmann, and Venkat Chandrasekaran (2023).
 
@@ -14,4 +14,5 @@ The files contain the following:
 - sachs_experiment: code and data files for reproducing the real data analysis on causal structure learning of protein expressions of sachs data
 
 **Contact Information**
+
 If you have any problems with the code, please feel free to contact me at ataeb@uw.edu
