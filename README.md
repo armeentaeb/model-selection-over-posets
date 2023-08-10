@@ -11,3 +11,6 @@ The files contain the following:
 - tennis_analysis: code for reproducing the real data analysis on partial ranking of tennis players
 - ranking_PISA: code for reproducing the real data analysis on total ranking of countries based on PISA scores
 - sachs_experiment: code and data files for reproducing the real data analysis on causal structure learning of protein expressions of sachs data
+
+**Contact Information**
+If you have any problems with the code, please feel free to contact me at ataeb@uw.edu
