@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper "Model selection over partially ordered sets" by Armeen Taeb, Peter Bühlmann, and Venkat Chandrasekaran (2023).
 
-**Instructions**
+##Instructions
 The files contain the following:
 - causal_synthetic: code for reproducing the results in the causal structure learning synthetic experiment
 - total_ranking_synthetic: code for reproducing the results in the total ranking synthetic experiment
