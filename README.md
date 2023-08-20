@@ -3,7 +3,7 @@
 This repository contains the code for the paper "Model selection over partially ordered sets" by Armeen Taeb, Peter Bühlmann, and Venkat Chandrasekaran (2023).
 
 Below is a visual illustration of the posets for a range of problem domains:
-<img width="1052" alt="posets" src="https://github.com/armeentaeb/model-selection-over-posets/assets/28795423/8410a7ef-c362-4bca-b53e-30230131bc24">
+<img width="1052" alt="posets" src="https://github.com/armeentaeb/model-selection-over-posets/assets/28795423/1c3ffa70-c039-4dfd-a4d1-9c772507924b">
 
 
 # Instructions
