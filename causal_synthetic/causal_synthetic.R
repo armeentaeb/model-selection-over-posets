@@ -118,10 +118,7 @@ for (prob_iter in 1:length(avg_edge_vec)){
       TD_final <- append(TD_final,mean(TD_vec))
       FD_vanilla_final <- append(FD_vanilla_final,mean(FD_vanilla_vec))
       TD_vanilla_final <- append(TD_vanilla_final,mean(TD_vanilla_vec))
-      print(FD_final)
-      print(TD_final)
-      print(FD_vanilla_final)
-      print(TD_vanilla_final)
+
     }
   }
 }
