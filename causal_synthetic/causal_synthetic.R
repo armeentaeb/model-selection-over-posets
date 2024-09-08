@@ -9,9 +9,9 @@ library(igraph)
 library(dagitty)
 
 # adjust this path
-root_path = "/Users/ataeb/Dropbox/Poset code/"
+root_path = "/Users/ataeb/Dropbox/Poset code 2/"
 
-path = paste(root_path,"causal_synthetic/subroutines",sep = "")
+path = paste(root_path,"subroutines",sep = "")
 
 ## source all relevant files
 setwd(path)
@@ -116,6 +116,8 @@ for (prob_iter in 1:length(avg_edge_vec)){
       
       FD_final <- append(FD_final,mean(FD_vec))
       TD_final <- append(TD_final,mean(TD_vec))
+      plot(FD_final)
+      plot(TD_final)
       FD_vanilla_final <- append(FD_vanilla_final,mean(FD_vanilla_vec))
       TD_vanilla_final <- append(TD_vanilla_final,mean(TD_vanilla_vec))
 
