@@ -10,7 +10,7 @@ library(Rcpp)
 library(Matrix)
 
 # adjust this path
-root_path = "/Users/ataeb/Dropbox/Poset code/"
+root_path = "/Users/ataeb/Dropbox/Poset code 2/"
 
 path = paste(root_path,"clustering_synthetic/subroutines",sep = "")
 ## source all relevant files
