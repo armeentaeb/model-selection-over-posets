@@ -8,7 +8,7 @@ FD_computation <- function(partition_bags){
   for (k in 1:(p-1)){
     s <- 0
     for (l in 1:(k)){
-      s<- s + choose(k+1,l)#*min(k+1-l,l)
+      s<- s + choose(k+1,l)/min(k+1-l,l)
     }
     
     # computing q_k based on the analysis in the paper
